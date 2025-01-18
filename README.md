@@ -1,4 +1,4 @@
-# JWT Authentication Server
+## JWT Authentication Server
 
 ## Table of Contents
 1. Description
